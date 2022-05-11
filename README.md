@@ -6,3 +6,5 @@ Autores/as:
 
 * Daniel Fireman
 * Eduardo Lúcio
+
+Estudem e façam a atividade!
