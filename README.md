@@ -8,3 +8,5 @@ Autores/as:
 * Eduardo Lúcio
 
 Estudem e façam a atividade!
+
+Vamos testar a criação e utilização de ramos!
