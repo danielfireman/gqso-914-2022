@@ -21,7 +21,6 @@ public class RaizTest {
   }
 
   @Test
-  
   public void raiz_opString() {
     MockRouter router = new MockRouter(new App());
     assertThrows(BadRequestException.class,
