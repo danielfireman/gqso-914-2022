@@ -10,7 +10,7 @@ public class Origem {
   @GET
   public String origem(Context ctx) {
     ctx.setResponseCode(200);
-    ctx.setResponseType(MediaType.HTML);    
-    return ctx.getRemoteAddress();
+    ctx.setResponseType(MediaType.HTML);
+    return ctx.headerMap().toString();
   }
 }
