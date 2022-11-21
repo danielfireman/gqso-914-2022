@@ -5,6 +5,7 @@ import io.jooby.Jooby;
 public class App extends Jooby {
 
   {
+    setTrustProxy(true);
     mvc(new Index());
     mvc(new Raiz());
     mvc(new Origem());
